@@ -125,6 +125,6 @@ botao_canvas = canvas.create_window( 245, 410, anchor = 'nw', window = botao_fec
 
 barra_progresso = Progressbar(janela, orient= HORIZONTAL, length = 100, mode='indeterminate')
 
-janela.title('Consulta CNPJ - ACTA Consultores')
+janela.title('Consulta CNPJ - Andrey Cortez')
 janela.geometry('600x600')
 janela.mainloop()
